@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1404218288 source:e:\c++\benim yaptýðým\cogaofli\main.cpp
+	"all.h"
+
+1404136542 e:\c++\benim yaptýðým\cogaofli\all.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"constant.h"
+	"cursor.h"
+	"misc.h"
+	"graphics.h"
+	"console.h"
+	"text.h"
+	"file.h"
+	"algrithm.h"
+
+1404140959 e:\c++\benim yaptýðým\cogaofli\constant.h
+
+1403767454 e:\c++\benim yaptýðým\cogaofli\console.h
+
+1403810232 e:\c++\benim yaptýðým\cogaofli\cursor.h
+
+1404001611 e:\c++\benim yaptýðým\cogaofli\graphics.h
+
+1403855036 e:\c++\benim yaptýðým\cogaofli\text.h
+
+1404030606 e:\c++\benim yaptýðým\cogaofli\misc.h
+
+1404136785 e:\c++\benim yaptýðým\cogaofli\file.h
+
+1404140975 e:\c++\benim yaptýðým\cogaofli\algrithm.h
+
